@@ -1,2 +1,2 @@
-# emolation
+# Emolation
 EMOtional transLATION (EMOLATION)
