@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run on Robot" type="JetRunConfigurationType">
+    <option name="MAIN_CLASS_NAME" value="furhatos.app.newskill.MainKt" />
+    <module name="NewSkill.main" />
+    <shortenClasspath name="NONE" />
+    <option name="VM_PARAMETERS" value="-Dfurhatos.skills.brokeraddress=141.210.88.12" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
